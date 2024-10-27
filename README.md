@@ -1,4 +1,4 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
-<p>Welcome to my page! </br> I'm Manideep R Kummitha, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/197/197560.png" width="13"/> <b>Lorient, France</b>, currently living in <img src="https://cdn-icons-png.flaticon.com/512/197/197564.png" width="13"/> <b>Bengaluru, India</b>. </p>
+<p>Welcome to my page! </br> I'm Manideep R Kummitha, Fullstack developer from <img src="https://en.wikipedia.org/wiki/Flag_of_India#/media/File:Flag_of_India.svg" width="13"/> <b>Bengaluru, India</b></p>
 <h3>Things I code with</h3>
