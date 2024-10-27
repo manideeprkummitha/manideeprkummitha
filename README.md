@@ -4,6 +4,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/en/4/41/Flag_of_India.svg" width="20" alt="India flag" /> 
   <b>Bengaluru, India</b>
 </p>
+<p>Currently working as a SDE1 at Tenforty LLC </p>
 
 <h3>Things I code with</h3>
 <p>
