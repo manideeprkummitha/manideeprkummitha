@@ -41,5 +41,3 @@
   <img alt="Appwrite" src="https://img.shields.io/badge/-Appwrite-F02E65?style=flat-square&logo=appwrite&logoColor=white" />
 </p>
 
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/overview.svg)
-![](https://github.com/sw-yx/sw-yx/blob/master/generated/languages.svg)
