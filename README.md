@@ -33,5 +33,5 @@
   <img alt="RabbitMQ" src="https://img.shields.io/badge/-RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white" />
   <img alt="Grafana" src="https://img.shields.io/badge/-Grafana-F46800?style=flat-square&logo=grafana&logoColor=white" />
   <img alt="Postman" src="https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" />
-
+  <img alt="WebSockets" src="https://img.shields.io/badge/-WebSockets-00897B?style=flat-square&logo=socket.io&logoColor=white" />
 </p>
